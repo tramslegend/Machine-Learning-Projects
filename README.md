@@ -1,5 +1,5 @@
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Projects;Deep+Learning+%7C+NLP+%7C+Computer+Vision;End-to-End+Deployable+Applications" alt="Typing SVG" />
+# <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Projects;Deep+Learning+%26+AI;Computer+Vision;NLP+%26+Chatbots;Data+Science+%26+Analytics" alt="Typing SVG" />
 </div>
 
 <img alt="GIF" src="Resources/banner.gif" />
@@ -20,8 +20,7 @@
 </div>
 
 <h2>Project Overview</h2> 
-<p align="justify"><b>A curated portfolio of 26 end-to-end machine learning projects</b> — spanning healthcare AI, real-time computer vision, NLP chatbots, time series forecasting, and classical ML. Each project applies theory to a practical problem, with several fully deployed as web and GUI applications.
-</p>
+<p align="justify"><b>A curated portfolio of 26 end-to-end machine learning projects</b> — spanning healthcare AI, real-time computer vision, NLP chatbots, time series forecasting, and classical ML prediction tasks.</p>
 <h2>📊 Repository at a Glance</h2> 
 <div align="center">
 
@@ -66,12 +65,12 @@
 
 | Project | Description | Tools & Algorithms | Level | Type |
 |---------|-------------|-------------------|:-----:|:----:|
-| [**Brain Tumor Detection**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/BRAIN%20TUMOR%20DETECTION%20%5BEND%202%20END%5D) | Detects tumors in MRI scans using a CNN. Upload a scan and get a real-time prediction. | PyTorch · CNN · Flask | 🔴 | 🌐 |
-| [**Diabetes Prediction**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Diabetes%20Prediction%20%5BEND%202%20END%5D) | Predicts diabetes likelihood from 8 health markers (glucose, BMI, insulin, age) using the Pima Indians dataset. | scikit-learn · SVM · Flask | 🟡 | 🌐 |
-| [**Heart Disease Prediction**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Heart%20Disease%20Prediction%20%5BEND%202%20END%5D) | Predicts cardiac risk from 13 clinical features with ~92% accuracy. | scikit-learn · Logistic Reg. · Flask | 🟡 | 🌐 |
-| [**Arrhythmia Classification**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Classification%20of%20Arrhythmia%20%5BECG%20DATA%5D) | Classifies 16 arrhythmia types from 279 ECG features (UCI dataset). | SVM · KNN · Decision Tree | 🟡 | 📓 |
-| [**Medical Chatbot**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Medical%20Chatbot%20%5BEND%202%20END%5D%20%5BNLP%5D) | NLP chatbot mapping user-described symptoms to diagnoses via a curated medical knowledge base. | NLTK · TF-IDF · Flask | 🔴 | 🌐 |
-| [**MoA Prediction**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Mechanisms%20Of%20Action%20(MoA)%20Prediction) | Predicts drug biological activity from gene expression and cell viability data (Kaggle competition). | PyTorch · TabNet · Multi-label | 🔴 | 📓 |
+| [**Brain Tumor Detection**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/BRAIN%20TUMOR%20DETECTION%20%5BEND%202%20END%5D) | Detects tumors in MRI scans using a CNN. Upload a scan and get a prediction with confidence score. | CNN, Transfer Learning, Flask | 🔴 | 🌐 |
+| [**Diabetes Prediction**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Diabetes%20Prediction%20%5BEND%202%20END%5D) | Predicts diabetes likelihood from 8 health markers (glucose, BMI, age, etc.). | Random Forest, SVM, Logistic Regression | 🟢 | 📓 |
+| [**Heart Disease Prediction**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Heart%20Disease%20Prediction%20%5BEND%202%20END%5D) | Predicts cardiac risk from 13 clinical features using ensemble models. | XGBoost, Logistic Regression, Random Forest | 🟢 | 📓 |
+| [**Arrhythmia Classification**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Classification%20of%20Arrhythmia%20%5BECG%20DATA%5D) | Classifies 16 arrhythmia types from 279 ECG features. | Random Forest, XGBoost, SVM | 🟡 | 📓 |
+| [**Medical Chatbot**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Medical%20Chatbot%20%5BEND%202%20END%5D%20%5BNLP%5D) | NLP chatbot mapping user-described symptoms to diagnosis suggestions. | NLP, NLTK, Flask, ML models | 🔴 | 🌐 |
+| [**MoA Prediction**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Mechanisms%20Of%20Action%20(MoA)%20Prediction) | Predicts drug biological activity from gene expression and cell viability. | Deep Learning, TabNet, PyTorch | 🔴 | 📓 |
 
 </details>
 
@@ -86,15 +85,15 @@
 
 | Project | Description | Tools & Algorithms | Level | Type |
 |---------|-------------|-------------------|:-----:|:----:|
-| [**Driver Drowsiness Detection**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Drowsiness%20detection%20%5BOPEN%20CV%5D) | Monitors driver eye state via Eye Aspect Ratio (EAR) and triggers an audio alert on drowsiness. | OpenCV · dlib · EAR | 🟡 | 🖥️ |
-| [**Distracted Driver Detection**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Distracted%20Driver%20Detection) | Classifies 10 distracted behaviors (texting, eating, phone call, etc.) from dashboard camera images. | CNN · Keras · ImageDataGenerator | 🔴 | 📓 |
-| [**Lane Line Detection**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Lane%20Line%20Detection%20%5BOPEN%20CV%5D) | Overlays detected road lane lines on images/video using Canny edge detection and Hough transforms. | OpenCV · Canny · Hough Transform | 🟢 | 🖥️ |
-| [**Human Detection & Counting**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Human%20Detection%20%26%20Counting%20Project%20%5BOPEN%20CV%5D) | Detects and counts people in live video or images using HOG + SVM. | OpenCV · HOG · SVM | 🟢 | 🖥️ |
-| [**Gender & Age Detection**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Gender%20and%20age%20detection%20using%20deep%20learning) | Predicts gender and age group from a face image using pre-trained Caffe models. | OpenCV DNN · Caffe Models | 🟡 | 🖥️ |
-| [**Image Colorization**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Colorize%20Black%20%26%20white%20images%20%5BOPEN%20CV%5D) | Adds realistic color to grayscale photos using the Zhang et al. deep colorization network. | OpenCV DNN · Zhang et al. · LAB space | 🟡 | 📓 |
-| [**Smile Selfie Capture**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Smile%20Selfie%20Capture%20%20%5BOPEN%20CV%5D) | Auto-captures a photo the instant a smile is detected in the webcam feed. No button needed. | OpenCV · Haar Cascades | 🟢 | 🖥️ |
-| [**Emoji Creator from Emotions**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/emoji%20creator%20project%20%5BOPEN%20CV%5D) | Detects real-time facial emotions via webcam and overlays the matching emoji on screen. | OpenCV · CNN · FER dataset | 🟡 | 🖥️ |
-| [**Human Activity Recognition**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Human%20Activity%20Detection) | Classifies activities (walking, sitting, standing) from pose estimation keypoints over time. | LSTM · Keras · 2D Pose Estimation | 🔴 | 📓 |
+| [**Driver Drowsiness Detection**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Drowsiness%20detection%20%5BOPEN%20CV%5D) | Monitors driver eye state via Eye Aspect Ratio (EAR) and triggers alerts on drowsiness. | OpenCV, Dlib, Flask | 🟡 | 🌐 |
+| [**Distracted Driver Detection**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Distracted%20Driver%20Detection) | Classifies 10 distracted behaviors (texting, eating, phone call, etc.) from images. | CNN, TensorFlow/Keras | 🔴 | 📓 |
+| [**Lane Line Detection**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Lane%20Line%20Detection%20%5BOPEN%20CV%5D) | Overlays detected road lane lines on images/video using Canny edge detection and Hough transform. | OpenCV, Hough Transform | 🟢 | 📓 |
+| [**Human Detection & Counting**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Human%20Detection%20%26%20Counting%20Project%20%5BOPEN%20CV%5D) | Detects and counts people in live video using HOG descriptor. | OpenCV, HOG, NMS | 🟡 | 📓 |
+| [**Gender & Age Detection**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Gender%20and%20age%20detection%20using%20deep%20learning) | Predicts gender and age group from a face image. | OpenCV, DNN, Caffe Models | 🟡 | 📓 |
+| [**Image Colorization**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Colorize%20Black%20%26%20white%20images%20%5BOPEN%20CV%5D) | Adds realistic color to grayscale photos using deep learning. | OpenCV, Deep Learning | 🟡 | 📓 |
+| [**Smile Selfie Capture**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Smile%20Selfie%20Capture%20%20%5BOPEN%20CV%5D) | Auto-captures a photo the instant a smile is detected in the webcam stream. | OpenCV, Haar Cascades | 🟢 | 📓 |
+| [**Emoji Creator from Emotions**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/emoji%20creator%20project%20%5BOPEN%20CV%5D) | Detects real-time facial emotions via webcam and overlays emoji reactions. | OpenCV, Haar Cascades | 🟢 | 📓 |
+| [**Human Activity Recognition**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Human%20Activity%20Detection) | Classifies activities (walking, sitting, standing) from pose estimation features. | OpenCV, Pose Estimation | 🟡 | 📓 |
 
 </details>
 
@@ -109,13 +108,13 @@
 
 | Project | Description | Tools & Algorithms | Level | Type |
 |---------|-------------|-------------------|:-----:|:----:|
-| [**Iris Flower Classification**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Iris%20Flower%20Classification) | Classic benchmark — classifies iris species from petal/sepal measurements. Ideal for comparing classifiers side-by-side. | KNN · SVM · Decision Tree · Naive Bayes | 🟢 | 📓 |
-| [**Wine Quality Prediction**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Wine%20Quality%20prediction) | Predicts wine quality score (3–8) from 11 physicochemical properties like acidity, sulfates, and alcohol. | Random Forest · XGBoost | 🟡 | 📓 |
-| [**Loan Repayment Prediction**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Loan%20Repayment%20Prediction) | Predicts whether a LendingClub borrower will repay based on credit history, income, and loan purpose. | Random Forest · XGBoost · Class Balancing | 🟡 | 📓 |
-| [**College Admission Prediction**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Getting%20Admission%20in%20College%20Prediction) | Estimates graduate admission probability from GRE, TOEFL, GPA, and research experience. | Linear Reg. · Ridge · Lasso · SVR | 🟢 | 📓 |
-| [**Employee Turnover Prediction**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Predict%20Employee%20Turnover%20with%20scikitlearn) | Identifies employees at high risk of leaving using HR data (satisfaction, evaluations, workload, promotions). | Decision Tree · Random Forest | 🟡 | 📓 |
-| [**Property Maintenance Fines**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Predicting%20Property%20Maintenance%20Fines) | Predicts fine compliance from Detroit's blight dataset — a real-world class-imbalance problem (Michigan Data Science Team). | Gradient Boosting · SMOTE · AUC optimization | 🔴 | 📓 |
-| [**Research Topic Prediction**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Research%20topic%20Prediction) | Classifies academic papers into topic categories using NLP-based feature extraction on titles/abstracts. | TF-IDF · Naive Bayes · SVM · NLTK | 🟡 | 📓 |
+| [**Iris Flower Classification**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Iris%20Flower%20Classification) | Classic benchmark — classifies iris species from petal/sepal measurements. | Logistic Regression, KNN, SVM | 🟢 | 📓 |
+| [**Wine Quality Prediction**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Wine%20Quality%20prediction) | Predicts wine quality score (3–8) from 11 physicochemical properties. | XGBoost, Random Forest, SVM | 🟢 | 📓 |
+| [**Loan Repayment Prediction**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Loan%20Repayment%20Prediction) | Predicts whether a LendingClub borrower will repay based on credit profile. | Logistic Regression, XGBoost | 🟡 | 📓 |
+| [**College Admission Prediction**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Getting%20Admission%20in%20College%20Prediction) | Estimates graduate admission probability from GRE, TOEFL, GPA, and research experience. | Linear Regression, Lasso, Random Forest | 🟢 | 📓 |
+| [**Employee Turnover Prediction**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Predict%20Employee%20Turnover%20with%20scikitlearn) | Identifies employees at high risk of leaving the company. | Random Forest, XGBoost, CatBoost | 🟡 | 📓 |
+| [**Property Maintenance Fines**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Predicting%20Property%20Maintenance%20Fines) | Predicts fine compliance from Detroit's blight data. | Gradient Boosting, XGBoost | 🔴 | 📓 |
+| [**Research Topic Prediction**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Research%20topic%20Prediction) | Classifies academic papers into topic categories using NLP-based features. | TF-IDF, Naive Bayes, SVM | 🟡 | 📓 |
 
 </details>
 
@@ -130,8 +129,8 @@
 
 | Project | Description | Tools & Algorithms | Level | Type |
 |---------|-------------|-------------------|:-----:|:----:|
-| [**AI Room Booking Chatbot**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/AI%20Room%20Booking%20Chatbot%20%5BIBM%20WATSON%5D) | Hotel room booking chatbot using IBM Watson. Handles slot-filling, availability queries, and booking confirmations through a web interface. | IBM Watson Assistant · Watson Discovery | 🟡 | 🌐 |
-| [**Medical Chatbot**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Medical%20Chatbot%20%5BEND%202%20END%5D%20%5BNLP%5D) | Symptom-to-diagnosis NLP chatbot with multi-turn conversation support. *(Also listed under Healthcare.)* | NLTK · Flask · TF-IDF · Cosine Similarity | 🔴 | 🌐 |
+| [**AI Room Booking Chatbot**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/AI%20Room%20Booking%20Chatbot%20%5BIBM%20WATSON%5D) | Hotel room booking chatbot using IBM Watson. Handles booking requests and sends email notifications. | IBM Watson, Flask, Python | 🟡 | 🌐 |
+| [**Medical Chatbot**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Medical%20Chatbot%20%5BEND%202%20END%5D%20%5BNLP%5D) | Symptom-to-diagnosis NLP chatbot with multi-turn conversation support. | NLP, LSTM, Flask | 🔴 | 🌐 |
 
 </details>
 
@@ -146,8 +145,8 @@
 
 | Project | Description | Tools & Algorithms | Level | Type |
 |---------|-------------|-------------------|:-----:|:----:|
-| [**Multi-Store Sales Prediction**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/TimeSeries%20Multi%20StoreSales%20prediction) | Forecasts daily sales for 50 items across 10 stores using three time series approaches and model ensembling. | ARIMA · Facebook Prophet · LSTM (Keras) | 🔴 | 📓 |
-| [**IPL Score Prediction**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/IPL%20Score%20Prediction) | Predicts first-innings T20 scores from ball-by-ball match data with deep EDA and multiple regression models. | Linear/Ridge Reg. · Random Forest · ANN | 🟡 | 📓 |
+| [**Multi-Store Sales Prediction**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/TimeSeries%20Multi%20StoreSales%20prediction) | Forecasts daily sales for 50 items across 10 stores using time series features. | XGBoost, Lag Features, Seasonal Patterns | 🟡 | 📓 |
+| [**IPL Score Prediction**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/IPL%20Score%20Prediction) | Predicts first-innings T20 scores from ball-by-ball match data with deep EDA. | Random Forest, XGBoost | 🟡 | 📓 |
 
 </details>
 
@@ -162,7 +161,7 @@
 
 | Project | Description | Tools & Algorithms | Level | Type |
 |---------|-------------|-------------------|:-----:|:----:|
-| [**The Battle of Neighborhoods**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/The%20Battle%20of%20Neighborhoods%20-Coursera%20capstone) | IBM Capstone — clusters city neighborhoods using Foursquare API data to recommend optimal business locations. | K-Means · Foursquare API · Folium · Geopy | 🟡 | 📓 |
+| [**The Battle of Neighborhoods**](https://github.com/shsarv/Machine-Learning-Projects/tree/main/The%20Battle%20of%20Neighborhoods%20-Coursera%20capstone) | IBM Capstone — clusters city neighborhoods to recommend better business locations. | K-Means, Folium, Foursquare API | 🟡 | 📓 |
 
 </details>
 
@@ -268,7 +267,7 @@ heroku open
 
 ## Contributions  🌱 
 
-We welcome contributions to this project! If you would like to improve the existing codebase or contribute new features, feel free to submit a pull request. Before submitting, please ensure that you adhere to the following:
+We welcome contributions to this project! If you would like to improve the existing codebase or contribute new features, feel free to submit a pull request. Before submitting, please ensure that your changes align with the repository's style and structure.
 
 
 1. **Fork** this repo
